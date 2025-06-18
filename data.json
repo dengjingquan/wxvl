@@ -15319,5 +15319,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491850&idx=1&sn=db77a285148d62fa2e546f05b9fb823e": "Apache Kafka Connect 任意文件读取漏洞(CVE-2025-27817)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491590&idx=1&sn=6bfe24a76d37d4ec6e48d96ef743b047": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月17日",
     "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463187&idx=1&sn=b6fce76866b61fca2a9d4d739e5dadc3": "信息安全漏洞周报（2025年第24期）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488450&idx=1&sn=34b5434a55a02c05bb35ebef8f08aa3c": "CVE-2025-33073！Microsoft SMB 客户端特权提升漏洞 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499832&idx=6&sn=369107d65d8d91b7d758baecb6c1c41a": "Apple：多个操作系统中的安全漏洞正遭受攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489430&idx=4&sn=f3902e0390467757e2b77e6939daebb2": "任意文件读取&下载漏洞的全面解析及利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483899&idx=1&sn=bfa971e99ccf2de2cca3003ba7451dbc": "车联网安全进阶之GB∕T 45496漏洞风险等级计算器发布",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NjY4MDAyNQ==&mid=2247497566&idx=1&sn=7ca3acd12c46d02b2e700204922bc7c2": "【漏洞通告】Apache Tomcat安全约束绕过漏洞安全风险通告"
 }
