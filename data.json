@@ -15516,5 +15516,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500057&idx=1&sn=d9dafaa4313fafd159cc06fb1835f095": "CNVD漏洞周报2025年第23期",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497761&idx=1&sn=73936ace07b08f709da2ace40fdf3933": "由403所发现的SSRF高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548695&idx=1&sn=a5c45ee0f5d80898eee21d5ee699f031": "Trustwave报告：酒店业成网络攻击重灾区 勒索钓鱼WIFI漏洞齐发",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMTQyMzkyMg==&mid=2247484088&idx=1&sn=f13ac7cd62bbe9b5e73a0f561c8dd6f3": "CVE-2020-9484 Tomcat Session 反序列化复现"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTQyMzkyMg==&mid=2247484088&idx=1&sn=f13ac7cd62bbe9b5e73a0f561c8dd6f3": "CVE-2020-9484 Tomcat Session 反序列化复现",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=4&sn=3fb024a33be11f2119bc8047de77f846": "逾10万个WordPress网站因MCP漏洞面临权限提升攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485036&idx=1&sn=ee3a749d2edcc53ccbb3bdbbfbb4733f": "hackerone之看着大佬的漏洞流口水",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=2&sn=fbbb1aea6d677f06fb7c17d1744a6eb3": "上周关注度较高的产品安全漏洞(20250616-20250622)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655284631&idx=1&sn=0f2b418860e8c2dc075739e21e9ca0cb": "DeepSeek R1技术复现和大模型的治理与安全",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247485985&idx=1&sn=77e197ee7c913ad96cdc2f038191fd99": "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485256&idx=1&sn=856da5d054aa072ae0a0a8ab75da3390": "记一次另类项目测试经历||近源测绘+知名oa漏洞审计(上)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490284&idx=1&sn=397ddf62437511be1e9a9bb1e49c0d6e": "【高危漏洞预警】Veeam Backup & Replication 远程代码执行漏洞 (CVE-2025-23121)",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487755&idx=1&sn=69879fcde1e30553652dfd6060bc11cb": "今日起，每周更新2+基础学习文章哦！今天是CSRF漏洞学习",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501214&idx=2&sn=ec3f0b9a7c46c481e2782ca2c12a04b6": "【漏洞通告】OpenVPN DCO驱动程序缓冲区溢出漏洞 (CVE-2025-50054)",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=1&sn=d3362c4570a2fa20dd6265ff8fe16d5a": "CNVD漏洞周报2025年第23期",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载"
 }
