@@ -15546,5 +15546,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486827&idx=1&sn=a25724a950ba87c0352ab769c3f88bb2": "CVE-2021-41773 漏洞复现：从失败到成功的探索",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611158&idx=3&sn=ded70f18ec0a6f9ca8caba82488f97e3": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491914&idx=1&sn=35337886d7201b34709bbf6689a8a30c": "安科瑞环保用电监管云平台 UpLoadPic 任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521829&idx=1&sn=1169e429efce4626a07be6bb0bae7b52": "一次从0到1的逻辑漏洞挖掘之旅"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521829&idx=1&sn=1169e429efce4626a07be6bb0bae7b52": "一次从0到1的逻辑漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQxMjQ4Ng==&mid=2247484252&idx=1&sn=5e962271608318dff0b47a2909cca7ea": "工具 | 泛微E-cology9 SQL 注入漏洞批量检测工具",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900800&idx=1&sn=5206926e487bdb80079965ea12d1e150": "AI开发框架成黑客新“肉鸡”：Langflow高危漏洞被利用组建DDoS僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531265&idx=1&sn=19e218b029466f8e4f24059b96021fae": "Notepad++漏洞 PoC 发布，可提升权限至 NT AUTHORITY\\SYSTEM",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=2&sn=6153fb97ede112cd135b07c48e91a27f": "【高危漏洞预警】Citrix NetScaler ADC越界读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3ODk3ODE2OA==&mid=2247484447&idx=1&sn=bc4dfbb6ff0e2b7d8cfb9f60918bf17a": "n8n安全：从漏洞利用到防御",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503440&idx=1&sn=d8b69e0070a73f607d010c0c6158d535": "雷神众测漏洞周报2025.6.16-2025.6.22",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512932&idx=1&sn=20365ad5978c47084a2fe90b8593d2ca": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583238&idx=2&sn=353765459c0cc7e6976ff211a8b1eab9": "超过46000个Grafana实例暴露于账户接管漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=1&sn=e295cee3d68a7199efefddfb2c56c791": "【高危漏洞预警】Notepad++权限提升漏洞(CVE-2025-49144)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485180&idx=1&sn=67de912aaaff345f53ddce1ec5491e9f": "CVE-2025-33053 网络快捷方式文件远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "【CVE‑2025‑49144】Notepad++提权漏洞"
 }
