@@ -15528,5 +15528,16 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501214&idx=2&sn=ec3f0b9a7c46c481e2782ca2c12a04b6": "【漏洞通告】OpenVPN DCO驱动程序缓冲区溢出漏洞 (CVE-2025-50054)",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496070&idx=1&sn=d3362c4570a2fa20dd6265ff8fe16d5a": "CNVD漏洞周报2025年第23期",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=1&sn=9c590617818f23d89234775a6c23dac4": "漏洞预警 | Veeam Backup & Replication远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=3&sn=4b001afef13dfb610260d65092c7a22e": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "F5 BIG-IP RCE：重温解析差异导致的身份认证绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247497866&idx=3&sn=d363efd42c49377e2637a4d4a0ddee08": "涉数据安全漏洞与隐私风险 中国医疗设备厂商在美国遭遇诉讼",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650575572&idx=1&sn=b474aa1f66643dded82ef017e74f10cc": "上线前还在修漏洞？告别救火模式，试试边开发边找漏洞的国舜方案！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "【技术分享】MQTT未授权访问漏洞利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "漏洞预警 | JimuReport信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499946&idx=1&sn=f6d83334f2b3d76da4e6c8d0a39c7284": ".NET WPF 下的新思路，通过 XAML 实现代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489509&idx=1&sn=c5820741e13804146977fd7353102d67": "百万POC实时更新",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491620&idx=1&sn=8917170e1628186b772f4eff20c61b8c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月23日"
 }
