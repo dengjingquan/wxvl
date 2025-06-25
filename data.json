@@ -15603,5 +15603,20 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070352&idx=3&sn=cc4501ba6fd8153a01376bad11487244": "【安全圈】TeamViewer 高危漏洞通报（CVE-2025-36537）",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908373&idx=1&sn=809508815394b08b8abbad379888a7f0": "微软MSRC的漏洞情报“剽窃”策略",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=1&sn=bac7469bf34eee680054d677b1c056ec": "【高危漏洞预警】 Gogs内部文件删除致远程命令注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=2&sn=6df93de7148487ec4029f4396726754d": "【高危漏洞预警】Pterodactyl代码执行漏洞(CVE-2025-49132)"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490307&idx=2&sn=6df93de7148487ec4029f4396726754d": "【高危漏洞预警】Pterodactyl代码执行漏洞(CVE-2025-49132)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489523&idx=1&sn=7a64c5b7c5c623d232ed0a4980cf9f10": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492658&idx=1&sn=083e602f09f084017608fce4fb9b60d5": "VulnCrawler v2.0- 漏洞情报拉取工具 一键抓取最新漏洞|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247533747&idx=2&sn=22b55155a4f85bf20cdba850b24115eb": "荐读丨首个AI Agent零点击漏洞曝光：一封邮件窃取企业AI任意敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNzc3OTMzNw==&mid=2247485939&idx=1&sn=03c3ffef5a2ae3b4cd0db6c79534f4a3": "工具分享 | 一款JumpServer堡垒机未授权综合漏洞利用脚本（近期更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463199&idx=1&sn=8b9360adb7f25f9377ced0a8e8e8eda8": "信息安全漏洞周报（2025年第25期）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521326&idx=1&sn=eee5b7db26999c41ad137213d0d90a1c": "记录某企业存储型XSS漏洞从发现到数据外泄全路径分析",
+    "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525817&idx=1&sn=2acd639eb41660568b52be7345601c65": "安全通告丨网络安全漏洞通告（2025年6月）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494089&idx=1&sn=b9ada1dbf29cb740174d1194b7b4262d": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492046&idx=1&sn=01a742e4329db61125a8bb709a3c781b": "安利一款桌面应用流量拦截神器：InterceptSuite 让加密通信无处遁形",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492852&idx=1&sn=63aa481b46b0e2ccc42748ad0107467f": "【已复现】Gogs 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501227&idx=2&sn=6dd4eb38653a88948107ed6a38964031": "【漏洞通告】WinRAR 路径处理漏洞导致远程代码执行 (CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "Java代码审计第七章-任意文件上传漏洞（上）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555247&idx=2&sn=7d638163f3ed98a098b2e44a47e27120": "【免费领】社会工程权威资料：解密安全体系中的人性漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493041&idx=1&sn=518361ee24bc2da2bdc44f947e1046a8": "在全球间谍活动中，政府网络邮件遭 XSS 漏洞攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323714&idx=3&sn=e66361c25b0dba9cb07f228b450a60c9": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码"
 }
