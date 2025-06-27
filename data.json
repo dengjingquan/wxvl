@@ -15655,5 +15655,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491156&idx=1&sn=fdb314b078bfabfc5a402e5bc50f233b": "阿迪达斯数据泄露事件：第三方服务商漏洞致客户信息外泄",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506828&idx=1&sn=4dcc2055faf8a5122af10eb038e0e5ab": "破解 JWT：漏洞赏金猎人指南（第五部分）",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493529&idx=1&sn=905cb8aa2ffff597d549a1c0f6de5ff4": "漏洞预警 | OpenVPN缓冲区溢出漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484386&idx=1&sn=fc08d72b12ba4c578a73b6f050aa8628": "【漏洞复现】某审卷系统存在逻辑缺陷"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484386&idx=1&sn=fc08d72b12ba4c578a73b6f050aa8628": "【漏洞复现】某审卷系统存在逻辑缺陷",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489317&idx=1&sn=434916a93c8677e2a4430873276124ea": "【漏洞通告】WebSphere Application Server远程代码执行漏洞（CVE-2025-36038）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488924&idx=1&sn=fd5c369c50dfb523c63dab43e94fba98": "你检查过回收站了吗？挖掘 Active Directory 回收站中的权限提升漏洞"
 }
