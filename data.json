@@ -15648,5 +15648,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531375&idx=1&sn=15a705cf292ef9d6f2122c57749947de": "UAT-6382 利用 Cityworks 零日漏洞传播恶意软件",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096350&idx=2&sn=ad5be77318cdcb22396bebc1fefd8a71": "NVIDIA Megatron LM 让攻击者注入恶意代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTQ3Ng==&mid=2247491568&idx=1&sn=56bef06681cde2ce8161fa8cfaeab4db": "【国际视野】美国网络安全和基础设施安全局与国家安全局联合发布《内存安全语言：减少现代软件开发中的漏洞》指南",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070375&idx=2&sn=43a610075b530001df1d12c917a221e3": "【安全圈】Realtek 蓝牙协议漏洞允许攻击者通过配对过程发起拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485638&idx=1&sn=2e701999599c57e242d403014afbaa96": "[CVE-2025-49144] 超详细复现notepad++提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523387&idx=2&sn=51d9faa28849e3f10c23498b89c880d0": "CISA和FBI联合发布关于减少现代软件开发中内存安全漏洞的指南",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491156&idx=1&sn=fdb314b078bfabfc5a402e5bc50f233b": "阿迪达斯数据泄露事件：第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506828&idx=1&sn=4dcc2055faf8a5122af10eb038e0e5ab": "破解 JWT：漏洞赏金猎人指南（第五部分）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493529&idx=1&sn=905cb8aa2ffff597d549a1c0f6de5ff4": "漏洞预警 | OpenVPN缓冲区溢出漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484386&idx=1&sn=fc08d72b12ba4c578a73b6f050aa8628": "【漏洞复现】某审卷系统存在逻辑缺陷"
 }
