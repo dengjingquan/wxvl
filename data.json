@@ -15693,5 +15693,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324007&idx=3&sn=ab457bbc0253d3a893c417159d3e4d10": "748款打印机存在不可修复的远程代码执行漏洞，涉兄弟、富士等品牌",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491941&idx=1&sn=1be6e8f7856cb6fcf191a6d1858210d5": "H3C ER2200G2路由器 信息泄露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531429&idx=1&sn=bd56f81866330df6dcad06a198ba156a": "CVE-2025-32433：Erlang∕OTP SSH 服务器中的预授权 RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492211&idx=1&sn=ca61e1e2c66aa791d47341f4e51f1e97": "【渗透测试】契约锁JDBC RCE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492295&idx=1&sn=0bd0632f2c051e01cc92f30b83828cfc": "漏洞挖掘Trips | Next.js 路由快速提取"
 }
