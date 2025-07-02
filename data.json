@@ -15750,5 +15750,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487449&idx=2&sn=dcd17b82a2b767da4a0245d2549452fc": "如何在日常渗透中实现通杀漏洞挖掘",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "CVE-2025-32462&CVE-2025-32463",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=1&sn=af483917f833027e64a5dc3b05e6f56a": "谷歌紧急修复已遭利用的 Chrome 0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUwNTg2Ng==&mid=2247485534&idx=1&sn=965510532c48f2610001136d57f67e79": "Windows命令执行场景下落地文件的常见方法",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877221&idx=1&sn=d02a91e885c7dfadf6de05fbab190268": "“Sannu, Lagos”（你好，拉各斯）！飞天诚信闪耀Digital PayExpo 2025",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487528&idx=1&sn=30eebba649d6c713043d17db3ea68364": "Cisco ISE ERS ​​API CVE-2025-20281 RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492919&idx=1&sn=efd3fdb2c449e02f690a3f69145b8532": "AI赋能的JS扫描与漏洞挖掘神器|漏洞探测"
 }
