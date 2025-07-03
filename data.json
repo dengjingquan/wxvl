@@ -15759,5 +15759,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492919&idx=1&sn=efd3fdb2c449e02f690a3f69145b8532": "AI赋能的JS扫描与漏洞挖掘神器|漏洞探测",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=2&sn=d6e9b21552f7237cbd8e87489840aae7": "【漏洞通告】Wing FTP Server 远程代码执行漏洞(CVE-2025-47812)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596362&idx=2&sn=851d02e396bd4ad0b2e18607c221d2cf": "最高3倍漏洞奖金+单漏洞最高价值百万，开源鸿蒙安全守护者即刻集结！",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488217&idx=1&sn=c37e1bd4e8179e029ebf65dbab89e0b8": "HW（2025-7-2）漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTY4OTM3Nw==&mid=2247484003&idx=1&sn=6ca85c68883c94d0e914bf8d9fd9fe5f": "夏日狂欢 | 限时漏洞翻倍悬赏活动",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503550&idx=2&sn=2f98d1c24d7cacca9fa9bfac2fb1adb8": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)安全风险通告"
 }
