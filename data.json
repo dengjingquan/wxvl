@@ -15767,5 +15767,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484397&idx=1&sn=02ae9d7fb38d1998b6e39568727b16de": "【0DAY漏洞复现】某款网络设备存在命令执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261384&idx=1&sn=4f91cc15ac8ab344b7d926dd5c872297": "【星球专享】手把手复现 Apache Airflow 漏洞指南-(CVE-2022–40604)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492743&idx=1&sn=6d15d49d30e47caad5876dd8ce93f3cb": "Google紧急修复Chrome零日漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484404&idx=1&sn=210b67f6dbbe6f2f49edb18417cdb516": "【厂商不承认的漏洞】某设备接口未授权实现任意密码修改",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545079&idx=2&sn=65abb29b5e5223f43305537aabeaa842": "2025攻防演练必修高危漏洞集合",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞"
 }
