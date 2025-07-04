@@ -15775,5 +15775,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489163&idx=1&sn=1e008afd0c76a101b63097cd15c89645": "漏洞预警|多家主流蓝牙耳机曝出可被监视漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=1&sn=82defa4f95ee18fec7fd809f7f565f7a": "思科 Unified CM 中存在满分漏洞，可用于获得root权限",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=2&sn=85a84a9138ea24b09e9ea0bcb9efe061": "速修复！Grafana 修复中存在四个严重的RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523440&idx=2&sn=85a84a9138ea24b09e9ea0bcb9efe061": "速修复！Grafana 修复中存在四个严重的RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490802&idx=1&sn=102c4f427b3434196bc45fac750ee05e": "插件前台任意文件读取漏洞复现与分析 (CVE-2025-2294)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596501&idx=3&sn=8d167e29f2f70304d76cb865431e2fad": "13岁少年Dylan发现 Teams 漏洞，微软为其修改赏金计划",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492291&idx=1&sn=016611bd54e6385d9c7ac784ba2e1355": "【复现】Google Chrome浏览器在野利用漏洞（CVE-2025-6554）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850595&idx=1&sn=372e11108972c7b8fce6574e03d9b7fd": "青藤RASP入选CCIA首批 “网安三新”，攻防演练中抓0day神器再获官方认证"
 }
