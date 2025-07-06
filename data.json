@@ -15809,5 +15809,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=1&sn=5eb58ebd3099c52207add98ed4461dce": "[漏洞利用开发] 0A- 与内存守卫共舞：打破 Canaries∕Cookies、DEP∕NX 和 ASLR",
     "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515053&idx=1&sn=f675480d14e309b4e61f55e56bd32b66": "蓝牙零日漏洞大揭秘",
     "https://mp.weixin.qq.com/s?__biz=MjM5OTc5MjM4Nw==&mid=2457389175&idx=1&sn=b8a393aea1447997a2db250a2aefcf59": "不容小觑的威胁：CVE-2025-32463 Linux提权漏洞，轻松利用却要紧急修复",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492050&idx=1&sn=25241e12d8fd7b7a7d959aebea062c21": "JieLink+智能终端操作平台 DeleteIpPool SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492050&idx=1&sn=25241e12d8fd7b7a7d959aebea062c21": "JieLink+智能终端操作平台 DeleteIpPool SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究"
 }
