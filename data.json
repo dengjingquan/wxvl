@@ -15822,5 +15822,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550746&idx=1&sn=7e546ceb9adf9b333ab5ef6388d86387": "EDUSRC | 证书站小程序漏洞挖掘思路及方法",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900878&idx=1&sn=0628d7321b119b7ef88e12c8bf037f86": "深度剖析CVE-2025-49596：一次网页浏览，如何让你的AI开发环境彻底沦陷？",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484501&idx=1&sn=d382e52bf88d07f6596b7426acf7f730": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546963&idx=2&sn=f6b0b39f61c938cbe033753539c56b22": "紧急！本周【护网】必看3大高危漏洞：Sudo提权漏洞，你中招了吗？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546963&idx=2&sn=f6b0b39f61c938cbe033753539c56b22": "紧急！本周【护网】必看3大高危漏洞：Sudo提权漏洞，你中招了吗？",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651135885&idx=1&sn=6f4e0657e70df2010200f1f0fe53b0ec": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0608-0621）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324515&idx=1&sn=e502828a52cb7663487c30f07c064387": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492233&idx=1&sn=6972c3d85da8e41bb31f6f59be71350b": "Prometheus 未授权访问漏洞处理",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=1&sn=a0eb976580ef5924a6411c6055618526": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485878&idx=1&sn=a4d4e1f8a75fc5cd7a0ad2c856557a55": "WordPress Forminator插件漏洞暴露60万网站面临完全接管风险"
 }
