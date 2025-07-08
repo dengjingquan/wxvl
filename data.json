@@ -15847,5 +15847,17 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501391&idx=1&sn=d7d59fa8789b9b499680ba16642dbbb0": "漏洞速递｜Redis CVE-2025-32023 RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324586&idx=1&sn=edaf868c5c5e19239d5ddd9a4a9e7b99": "Linux启动漏洞可绕过现代Linux系统的安全启动保护",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487489&idx=1&sn=3a6063b4e6c95891b1a17fb5e1ff0bc1": "众测实战 | 一次正负叠加导致的支付漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573910&idx=2&sn=ca0beb1967b43d9d39bca8eeb7715732": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "某堡垒机 set_port 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483857&idx=1&sn=93db8bf128d335497ee7d8c989f635a3": "平平无奇的越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487568&idx=1&sn=62f811d92aedb814bb4509ba9bd3abb3": "用友NC最新SQL注入 | CNVD-2025-06710漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547053&idx=1&sn=ab425df27b630dfa1c1d59759bf1ad37": "【更！】25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070555&idx=4&sn=a0045b414dc83b5ccab5d88ec4c10558": "【安全圈】《使命召唤：二战》曝严重漏洞，PC玩家遭远程黑客攻击，游戏被紧急下线",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MTg4NTMzNw==&mid=2247484356&idx=1&sn=036e2e4f00b5faca357006054047cfcf": "25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "CVE-2024-0582 内核提权详细分析"
 }
