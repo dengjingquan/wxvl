@@ -15835,5 +15835,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492680&idx=1&sn=61c7638737f8180a304dd3fc33501057": "疑似美国新APT组织NightEagle利用0Day漏洞瞄准中国的军事和科技行业",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555393&idx=1&sn=32e7a89822c88d2a315eae8ebc22f827": "精准定位文件包含漏洞：代码审计中的实战思维",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491714&idx=1&sn=2703eddc7e90fc058235bae0286ecc9b": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月07日",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开"
 }
