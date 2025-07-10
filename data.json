@@ -15897,5 +15897,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539547&idx=2&sn=4c734f8837fb9bb5024190ecd4460790": "资产维度分类之全球操作系统漏洞大盘点",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503463&idx=1&sn=6ef0546654e72e110fb0e22dc6c2a065": "【成功复现】LlamaIndex SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494208&idx=1&sn=101fa901a50f4681cd39776d41edc29d": "【已复现】泛微 E-cology9 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马"
 }
