@@ -15911,5 +15911,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491130&idx=1&sn=bce87c351315abd069bb98e99f37ac10": "大洞，速修，Redis远程命令执行漏洞。",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTQ0OTYxOQ==&mid=2247484091&idx=1&sn=b77edc5018db3aeebe5d057fe6020255": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245407&idx=2&sn=13edbb43d857ccee5d8e4bb9ad8106be": "CNNVD | 关于微软多个安全漏洞的通报"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245407&idx=2&sn=13edbb43d857ccee5d8e4bb9ad8106be": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650624093&idx=2&sn=9d235e1823de35400fc8f7f6bc25a300": "涉及140个重要漏洞！微软发布2025年7月补丁日安全通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511822&idx=3&sn=a8baaa8e70b7ce392afd82068e61c438": "PerfektBlue蓝牙漏洞恐波及数百万设备：已验证奔驰、大众、斯柯达汽车受影响",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486431&idx=2&sn=ff19bea58b0a4b773251fc334ed4551a": "【漏洞复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494722&idx=1&sn=07be35bca8fdbda650e5d8e58efe5d9d": "网络摄像头漏洞扫描工具！更新"
 }
