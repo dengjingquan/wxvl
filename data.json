@@ -15923,5 +15923,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500394&idx=1&sn=fa2fc8a9b7314e92c8443b15116c277e": "G.O.S.S.I.P 阅读推荐 2025-07-10 完蛋，AI已经可以找到内核的0day漏洞啦？",
     "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492149&idx=1&sn=0049b56198aaeb2be7adf60b3a8a13f4": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117073&idx=1&sn=8abdeb5423f80a892f9830ac759cca49": "西门子、施耐德、菲尼克斯电气修复漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489948&idx=2&sn=79ab72f7569e04c16df9eed805a95538": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489948&idx=2&sn=79ab72f7569e04c16df9eed805a95538": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535507&idx=1&sn=aa8fe2a260fb9665fcc45a09e0579751": "【漏洞预警】：Redis hyperloglog 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517301&idx=1&sn=9d85a91e393af6ddcb3b5ea522d72c76": "漏洞预警｜银河麒麟桌面操作系统V10本地提权漏洞（CNNVD-2025-28344653∕KVE-2025-0603)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490408&idx=2&sn=1ab2864da7b5b373a007528c90bfc21f": "【高危漏洞预警】泛微E-cology9 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490613&idx=1&sn=bf728f4cff492892dae89570b62f83db": "2025-7-10日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489860&idx=1&sn=a10a66519fd9c578f8c2792f582bdf19": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
