@@ -15968,5 +15968,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=1&sn=47775667d01e7eaeee082dd967296fa9": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484711&idx=1&sn=c2c06fac608791fac01832eab95ab674": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484711&idx=1&sn=c2c06fac608791fac01832eab95ab674": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486079&idx=2&sn=b06c26e63d5694cb6383efb350fb9f34": "【漏洞复现】CVE-2025-6218｜WinRAR目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总"
 }
