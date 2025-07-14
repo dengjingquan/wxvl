@@ -16000,5 +16000,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573973&idx=1&sn=ecf5cfbabe7a1b50a40ab8d6aa8a0324": "整理一些挖SRC必须知道的漏洞提交平台",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=3&sn=7ccd92ac4dd522bb9216323ef93d3402": "【安全圈】Google Gemini 被曝安全漏洞：AI 邮件摘要功能可被诱导生成钓鱼信息",
-    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=2&sn=48c5a098c1fb64e52d12ffeb8309e9b1": "【安全圈】WinRAR现0day高危漏洞：地下黑客叫价8万美元，数亿Windows用户面临远程攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞"
 }
