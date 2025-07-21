@@ -16161,5 +16161,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518061&idx=1&sn=e5c993ddd41593392c3fadfe8f8fae8a": "OSED = Windows 漏洞利用 + 逆向工程",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489178&idx=1&sn=da94d972d802ca4c55bf8dfd5a5cac85": "漏洞预警|请尽快更新Windows微信到4.0版本",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611483&idx=4&sn=e411feca05ba6e1665dc387679d976c8": "存储桶配置漏洞检测浏览器插件",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "漏洞预警 | SemCms SQL注入漏洞"
 }
